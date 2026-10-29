@@ -1,0 +1,1821 @@
+[
+  {
+    "id": "685",
+    "num": 1,
+    "title": "职业规划/学习方法",
+    "chapters": [
+      {
+        "exercises": [],
+        "lessons": [
+          {
+            "title": "编程能力-未来通行证",
+            "url": "https://sxt.cn/course/id/63736.html"
+          },
+          {
+            "title": "没有理科技术也可以学编程!",
+            "url": "https://sxt.cn/course/id/63737.html"
+          },
+          {
+            "title": "0基础转行做程序可行吗",
+            "url": "https://sxt.cn/course/id/63738.html"
+          },
+          {
+            "title": "Python语言的特点与优势",
+            "url": "https://sxt.cn/course/id/63741.html"
+          },
+          {
+            "title": "Python在AI领域的应用与就业岗位",
+            "url": "https://sxt.cn/course/id/63745.html"
+          },
+          {
+            "title": "Python与Java_C++_前端的差异",
+            "url": "https://sxt.cn/course/id/63746.html"
+          },
+          {
+            "title": "编程世界的分工",
+            "url": "https://sxt.cn/course/id/63747.html"
+          },
+          {
+            "title": "初学者如何培养编程思维",
+            "url": "https://sxt.cn/course/id/63748.html"
+          },
+          {
+            "title": "Python入门常见误区",
+            "url": "https://sxt.cn/course/id/63749.html"
+          },
+          {
+            "title": "如何安排每天的学习计划",
+            "url": "https://sxt.cn/course/id/63750.html"
+          },
+          {
+            "title": "如何克服自学焦虑与信息过载",
+            "url": "https://sxt.cn/course/id/63751.html"
+          },
+          {
+            "title": "如何高效使用大语言模型（LLM）解决问题",
+            "url": "https://sxt.cn/course/id/63753.html"
+          },
+          {
+            "title": "英文文档阅读能力的重要性",
+            "url": "https://sxt.cn/course/id/63754.html"
+          },
+          {
+            "title": "技术社区与开源文化初识",
+            "url": "https://sxt.cn/course/id/63755.html"
+          },
+          {
+            "title": "如何建立自己的学习笔记体系",
+            "url": "https://sxt.cn/course/id/63756.html"
+          }
+        ],
+        "title": "程序员的基本素养与职业规划"
+      }
+    ],
+    "counts": "本阶段无需编程，主要帮助初学者了解程序员这个行业，熟悉Python技术体系，通过通俗易懂的示例解释什么是编程，并指导如何进行职业规划，帮助初学者消除迷茫。如果你已经对自己的职业规划有了清晰的认识，可以直接跳过此阶段，进入第一阶段的学习。",
+    "description": "本阶段无需编程，主要帮助初学者了解程序员这个行业，熟悉Python技术体系，通过通俗易懂的示例解释什么是编程，并指导如何进行职业规划，帮助初学者消除迷茫。如果你已经对自己的职业规划有了清晰的认识，可以直接跳过此阶段，进入第一阶段的学习。"
+  },
+  {
+    "id": "667",
+    "num": 2,
+    "title": "大语言模型基础与工程化实践",
+    "chapters": [
+      {
+        "exercises": [
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4371.html"
+          },
+          {
+            "title": "根据老师代码，完成异常处理",
+            "url": "https://sxt.cn/training/write/4424.html"
+          },
+          {
+            "title": "安装 Python开发环境，并打印出hello world。",
+            "url": "https://sxt.cn/training/write/4423.html"
+          },
+          {
+            "title": "本章节资料下载地址",
+            "url": "https://sxt.cn/training/write/4414.html"
+          },
+          {
+            "title": "使用 python 表示数学式：",
+            "url": "https://sxt.cn/training/write/4427.html"
+          },
+          {
+            "title": "从控制台输入用户的月薪，进行运算计算出年薪。打印输出用户的年薪",
+            "url": "https://sxt.cn/training/write/4426.html"
+          },
+          {
+            "title": "使用字符串复制，用计算机打印出“爱你一百遍”，打印 100 次",
+            "url": "https://sxt.cn/training/write/4425.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4372.html"
+          },
+          {
+            "title": "元组和列表有哪些共同点？有哪些不同点？",
+            "url": "https://sxt.cn/training/write/4430.html"
+          },
+          {
+            "title": "推导式生成列表： a = [x*2 for x in range(100) if x%9==0]，手写出结果。",
+            "url": "https://sxt.cn/training/write/4432.html"
+          },
+          {
+            "title": "使用二维列表存储表格信息，并画出简单的内存存储示意图：",
+            "url": "https://sxt.cn/training/write/4431.html"
+          },
+          {
+            "title": "创建一个字典对象，包含如下信息：",
+            "url": "https://sxt.cn/training/write/4429.html"
+          },
+          {
+            "title": "集合和字典有什么关系？",
+            "url": "https://sxt.cn/training/write/4428.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4373.html"
+          },
+          {
+            "title": "安装 Pycharm 开发环境，并使用图文描述整个过程。",
+            "url": "https://sxt.cn/training/write/4438.html"
+          },
+          {
+            "title": "输入一个学生的成绩，将其转化成简单描述：不及格(小于 60)、及格(60-79)、良好(80-89)、优秀(90-100)",
+            "url": "https://sxt.cn/training/write/4437.html"
+          },
+          {
+            "title": "利用 while 循环，计算 1-100 之间数字的累加和；计算 1-100 之间偶数的累加和，计算1-100 之间奇数的累加和",
+            "url": "https://sxt.cn/training/write/4436.html"
+          },
+          {
+            "title": "利用 for 循环，计算 1-100 之间数字的累加和；计算 1-100 之间偶数的累加和，计算1-100 之间奇数的累加和",
+            "url": "https://sxt.cn/training/write/4435.html"
+          },
+          {
+            "title": "利用嵌套循环打印九九乘法表",
+            "url": "https://sxt.cn/training/write/4434.html"
+          },
+          {
+            "title": "用列表和字典存储下表信息，并打印出表中工资高于 15000 的数据",
+            "url": "https://sxt.cn/training/write/4433.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4374.html"
+          },
+          {
+            "title": "定义一个函数，将输入的参数拆成列表元素，通过sort()逆序排列后再输出。如：输入3245，输出5432",
+            "url": "https://sxt.cn/training/write/4440.html"
+          },
+          {
+            "title": "编写一个函数，计算下面的数列",
+            "url": "https://sxt.cn/training/write/4439.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4375.html"
+          },
+          {
+            "title": "设计一个名为 MyRectangle 的矩形类来表示矩形。这个类包含",
+            "url": "https://sxt.cn/training/write/4443.html"
+          },
+          {
+            "title": "如下代码测试对象的浅拷贝、深拷贝，请绘制出内存示意图",
+            "url": "https://sxt.cn/training/write/4442.html"
+          },
+          {
+            "title": "定义一个 Employee 雇员类，要求如下：",
+            "url": "https://sxt.cn/training/write/4441.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4376.html"
+          },
+          {
+            "title": "使用图片和文字形式，描述本章作业过程中某个异常的解决过程",
+            "url": "https://sxt.cn/training/write/4444.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4377.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4378.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4703.html"
+          }
+        ],
+        "lessons": [
+          {
+            "title": "本地聊天机器人_介绍",
+            "url": "https://sxt.cn/course/id/63761.html"
+          },
+          {
+            "title": "Ollama的安装与配置",
+            "url": "https://sxt.cn/course/id/63762.html"
+          },
+          {
+            "title": "Python安装",
+            "url": "https://sxt.cn/course/id/63763.html"
+          },
+          {
+            "title": "聊天机器人开发",
+            "url": "https://sxt.cn/course/id/63764.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4371.html"
+          },
+          {
+            "title": "python是什么_应用范围",
+            "url": "https://sxt.cn/course/id/63791.html"
+          },
+          {
+            "title": "必须听的正确学习方法",
+            "url": "https://sxt.cn/course/id/63792.html"
+          },
+          {
+            "title": "pycharm软件的下载和安装",
+            "url": "https://sxt.cn/course/id/63794.html"
+          },
+          {
+            "title": "pycharm的使用-python项目的创建和第一行python程序",
+            "url": "https://sxt.cn/course/id/63795.html"
+          },
+          {
+            "title": "Python程序格式_缩进_行注释_段注释",
+            "url": "https://sxt.cn/course/id/63796.html"
+          },
+          {
+            "title": "简单错误如何处理",
+            "url": "https://sxt.cn/course/id/63797.html"
+          },
+          {
+            "title": "根据老师代码，完成异常处理",
+            "url": "https://sxt.cn/training/write/4424.html"
+          },
+          {
+            "title": "安装 Python开发环境，并打印出hello world。",
+            "url": "https://sxt.cn/training/write/4423.html"
+          },
+          {
+            "title": "本章节资料下载地址",
+            "url": "https://sxt.cn/training/write/4414.html"
+          },
+          {
+            "title": "python程序的构成",
+            "url": "https://sxt.cn/course/id/62000.html"
+          },
+          {
+            "title": "对象的基本组成和内存示意图",
+            "url": "https://sxt.cn/course/id/62001.html"
+          },
+          {
+            "title": "引用的本质_栈内存和堆内存_内存示意图",
+            "url": "https://sxt.cn/course/id/62002.html"
+          },
+          {
+            "title": "标识符_帮助系统简单使用_命名规则",
+            "url": "https://sxt.cn/course/id/62003.html"
+          },
+          {
+            "title": "变量的声明_初始化_垃圾回收机制",
+            "url": "https://sxt.cn/course/id/62004.html"
+          },
+          {
+            "title": "常量_链式赋值_系列解包赋值",
+            "url": "https://sxt.cn/course/id/62005.html"
+          },
+          {
+            "title": "内置数据类型_基本算术运算符",
+            "url": "https://sxt.cn/course/id/62006.html"
+          },
+          {
+            "title": "整数_不同进制_其他类型转成整数",
+            "url": "https://sxt.cn/course/id/62007.html"
+          },
+          {
+            "title": "浮点数_自动转换_强制转换_增强赋值运算符",
+            "url": "https://sxt.cn/course/id/62008.html"
+          },
+          {
+            "title": "时间的表示_unix时间点_毫秒微秒_time模块",
+            "url": "https://sxt.cn/course/id/62009.html"
+          },
+          {
+            "title": "多点坐标_绘制折线图_计算两点距离",
+            "url": "https://sxt.cn/course/id/62010.html"
+          },
+          {
+            "title": "布尔值本质_逻辑运算符_位运算符_比较运算符_短路问题",
+            "url": "https://sxt.cn/course/id/62011.html"
+          },
+          {
+            "title": "同一运算符_身份运算符_优先级问题",
+            "url": "https://sxt.cn/course/id/62012.html"
+          },
+          {
+            "title": "字符串_unicode字符集_三种创建字符串的方式_len()",
+            "url": "https://sxt.cn/course/id/62013.html"
+          },
+          {
+            "title": "字符串_转义字符_字符串拼接_字符串复制_input()获取键盘输入",
+            "url": "https://sxt.cn/course/id/62014.html"
+          },
+          {
+            "title": "字符串_str()_字符提取_replace()替换_内存分析",
+            "url": "https://sxt.cn/course/id/62015.html"
+          },
+          {
+            "title": "字符串切片slice操作_逆序",
+            "url": "https://sxt.cn/course/id/62016.html"
+          },
+          {
+            "title": "字符串_split()分割_join()合并_代码效率测试",
+            "url": "https://sxt.cn/course/id/62017.html"
+          },
+          {
+            "title": "字符串_驻留机制_同一判断_值相等判断",
+            "url": "https://sxt.cn/course/id/62018.html"
+          },
+          {
+            "title": "字符串_常用查找方法_去除首尾信息_大小写转换_排版_特征判断",
+            "url": "https://sxt.cn/course/id/62019.html"
+          },
+          {
+            "title": "字符串_format格式化_数字格式化操作",
+            "url": "https://sxt.cn/course/id/62020.html"
+          },
+          {
+            "title": "可变字符串_io.StringIO",
+            "url": "https://sxt.cn/course/id/62021.html"
+          },
+          {
+            "title": "类型转换总结",
+            "url": "https://sxt.cn/course/id/62022.html"
+          },
+          {
+            "title": "使用 python 表示数学式：",
+            "url": "https://sxt.cn/training/write/4427.html"
+          },
+          {
+            "title": "从控制台输入用户的月薪，进行运算计算出年薪。打印输出用户的年薪",
+            "url": "https://sxt.cn/training/write/4426.html"
+          },
+          {
+            "title": "使用字符串复制，用计算机打印出“爱你一百遍”，打印 100 次",
+            "url": "https://sxt.cn/training/write/4425.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4372.html"
+          },
+          {
+            "title": "列表_特点_内存分析",
+            "url": "https://sxt.cn/course/id/62023.html"
+          },
+          {
+            "title": "创建列表的4种方式_推导式创建列表",
+            "url": "https://sxt.cn/course/id/62024.html"
+          },
+          {
+            "title": "列表_元素的5种添加方式_效率问题",
+            "url": "https://sxt.cn/course/id/62025.html"
+          },
+          {
+            "title": "列表删除的三种方式_删除的本质是元素拷贝",
+            "url": "https://sxt.cn/course/id/62026.html"
+          },
+          {
+            "title": "列表_元素的访问_出现次数统计_成员资格判断",
+            "url": "https://sxt.cn/course/id/62027.html"
+          },
+          {
+            "title": "切片slice操作",
+            "url": "https://sxt.cn/course/id/62028.html"
+          },
+          {
+            "title": "列表_遍历_排序_max_min_sum",
+            "url": "https://sxt.cn/course/id/62029.html"
+          },
+          {
+            "title": "列表_二维列表_表格数据存储和读取",
+            "url": "https://sxt.cn/course/id/62030.html"
+          },
+          {
+            "title": "元组_特点_创建的两种方式_tuple()要点",
+            "url": "https://sxt.cn/course/id/62031.html"
+          },
+          {
+            "title": "元组_元素访问_计数方法_切片操作_成员资格判断_zip()",
+            "url": "https://sxt.cn/course/id/62032.html"
+          },
+          {
+            "title": "元组_生成器推导式创建元组_总结",
+            "url": "https://sxt.cn/course/id/62033.html"
+          },
+          {
+            "title": "字典_特点_4种创建方式_普通_dict_zip_fromkeys",
+            "url": "https://sxt.cn/course/id/62034.html"
+          },
+          {
+            "title": "字典_元素的访问_键的访问_值的访问_键值对的访问",
+            "url": "https://sxt.cn/course/id/62035.html"
+          },
+          {
+            "title": "字典_元素的添加_修改_删除",
+            "url": "https://sxt.cn/course/id/62036.html"
+          },
+          {
+            "title": "字典_序列解包用于列表元组字典",
+            "url": "https://sxt.cn/course/id/62037.html"
+          },
+          {
+            "title": "字典_复杂表格数据存储_列表和字典综合嵌套",
+            "url": "https://sxt.cn/course/id/62038.html"
+          },
+          {
+            "title": "字典_核心底层原理_内存分析_存储键值对过程",
+            "url": "https://sxt.cn/course/id/62039.html"
+          },
+          {
+            "title": "字典_核心底层原理_内存分析_查找值对象过程",
+            "url": "https://sxt.cn/course/id/62040.html"
+          },
+          {
+            "title": "集合_特点_创建和删除_交集并集差集运算",
+            "url": "https://sxt.cn/course/id/62041.html"
+          },
+          {
+            "title": "元组和列表有哪些共同点？有哪些不同点？",
+            "url": "https://sxt.cn/training/write/4430.html"
+          },
+          {
+            "title": "推导式生成列表： a = [x*2 for x in range(100) if x%9==0]，手写出结果。",
+            "url": "https://sxt.cn/training/write/4432.html"
+          },
+          {
+            "title": "使用二维列表存储表格信息，并画出简单的内存存储示意图：",
+            "url": "https://sxt.cn/training/write/4431.html"
+          },
+          {
+            "title": "创建一个字典对象，包含如下信息：",
+            "url": "https://sxt.cn/training/write/4429.html"
+          },
+          {
+            "title": "集合和字典有什么关系？",
+            "url": "https://sxt.cn/training/write/4428.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4373.html"
+          },
+          {
+            "title": "控制语句和现实逻辑表达",
+            "url": "https://sxt.cn/course/id/62042.html"
+          },
+          {
+            "title": "单分支选择结构_条件表达式详解",
+            "url": "https://sxt.cn/course/id/62043.html"
+          },
+          {
+            "title": "双分支选择结构_三元运算符的使用详解",
+            "url": "https://sxt.cn/course/id/62044.html"
+          },
+          {
+            "title": "多分支选择结构",
+            "url": "https://sxt.cn/course/id/62045.html"
+          },
+          {
+            "title": "选择结构的嵌套",
+            "url": "https://sxt.cn/course/id/62046.html"
+          },
+          {
+            "title": "while循环结构_死循环处理",
+            "url": "https://sxt.cn/course/id/62047.html"
+          },
+          {
+            "title": "for循环结构_遍历各种可迭代对象_range对象",
+            "url": "https://sxt.cn/course/id/62048.html"
+          },
+          {
+            "title": "嵌套循环",
+            "url": "https://sxt.cn/course/id/62049.html"
+          },
+          {
+            "title": "嵌套循环练习_九九乘法表_打印表格数据",
+            "url": "https://sxt.cn/course/id/62050.html"
+          },
+          {
+            "title": "break语句",
+            "url": "https://sxt.cn/course/id/62051.html"
+          },
+          {
+            "title": "continue语句",
+            "url": "https://sxt.cn/course/id/62052.html"
+          },
+          {
+            "title": "循环中的else子句",
+            "url": "https://sxt.cn/course/id/62053.html"
+          },
+          {
+            "title": "循环代码优化技巧",
+            "url": "https://sxt.cn/course/id/62054.html"
+          },
+          {
+            "title": "zip()并行迭代多个序列",
+            "url": "https://sxt.cn/course/id/62055.html"
+          },
+          {
+            "title": "推导式创建序列_列表推导式_字典推导式_集合推导式_生成器推导式",
+            "url": "https://sxt.cn/course/id/62056.html"
+          },
+          {
+            "title": "综合练习_绘制不同颜色的同心圆_绘制棋盘",
+            "url": "https://sxt.cn/course/id/62057.html"
+          },
+          {
+            "title": "安装 Pycharm 开发环境，并使用图文描述整个过程。",
+            "url": "https://sxt.cn/training/write/4438.html"
+          },
+          {
+            "title": "输入一个学生的成绩，将其转化成简单描述：不及格(小于 60)、及格(60-79)、良好(80-89)、优秀(90-100)",
+            "url": "https://sxt.cn/training/write/4437.html"
+          },
+          {
+            "title": "利用 while 循环，计算 1-100 之间数字的累加和；计算 1-100 之间偶数的累加和，计算1-100 之间奇数的累加和",
+            "url": "https://sxt.cn/training/write/4436.html"
+          },
+          {
+            "title": "利用 for 循环，计算 1-100 之间数字的累加和；计算 1-100 之间偶数的累加和，计算1-100 之间奇数的累加和",
+            "url": "https://sxt.cn/training/write/4435.html"
+          },
+          {
+            "title": "利用嵌套循环打印九九乘法表",
+            "url": "https://sxt.cn/training/write/4434.html"
+          },
+          {
+            "title": "用列表和字典存储下表信息，并打印出表中工资高于 15000 的数据",
+            "url": "https://sxt.cn/training/write/4433.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4374.html"
+          },
+          {
+            "title": "函数的基本概念_内存分析_函数分类_定义和调用",
+            "url": "https://sxt.cn/course/id/62058.html"
+          },
+          {
+            "title": "形参和实参_文档字符串_函数的注释",
+            "url": "https://sxt.cn/course/id/62059.html"
+          },
+          {
+            "title": "返回值详解",
+            "url": "https://sxt.cn/course/id/62060.html"
+          },
+          {
+            "title": "函数也是对象_内存分析",
+            "url": "https://sxt.cn/course/id/62061.html"
+          },
+          {
+            "title": "变量的作用域_全局变量_局部变量_栈帧内存分析讲解",
+            "url": "https://sxt.cn/course/id/62062.html"
+          },
+          {
+            "title": "局部变量和全局变量_效率测试",
+            "url": "https://sxt.cn/course/id/62063.html"
+          },
+          {
+            "title": "参数的传递_传递可变对象_内存分析",
+            "url": "https://sxt.cn/course/id/62064.html"
+          },
+          {
+            "title": "参数的传递_传递不可变对象_内存分析",
+            "url": "https://sxt.cn/course/id/62065.html"
+          },
+          {
+            "title": "浅拷贝和深拷贝_内存分析",
+            "url": "https://sxt.cn/course/id/62066.html"
+          },
+          {
+            "title": "参数的传递_不可变对象含可变子对象_内存分析",
+            "url": "https://sxt.cn/course/id/62067.html"
+          },
+          {
+            "title": "参数的类型_位置参数_默认值参数_命名参数",
+            "url": "https://sxt.cn/course/id/62068.html"
+          },
+          {
+            "title": "参数的类型_可变参数_强制命名参数",
+            "url": "https://sxt.cn/course/id/62069.html"
+          },
+          {
+            "title": "lambda表达式和匿名函数",
+            "url": "https://sxt.cn/course/id/62070.html"
+          },
+          {
+            "title": "eval()函数的用法和注入安全隐患问题",
+            "url": "https://sxt.cn/course/id/62071.html"
+          },
+          {
+            "title": "递归函数_函数调用内存分析_栈帧的创建",
+            "url": "https://sxt.cn/course/id/62072.html"
+          },
+          {
+            "title": "递归函数_阶乘计算案例",
+            "url": "https://sxt.cn/course/id/62073.html"
+          },
+          {
+            "title": "嵌套函数_内部函数_数据隐藏",
+            "url": "https://sxt.cn/course/id/62074.html"
+          },
+          {
+            "title": "nonlocal和global关键字",
+            "url": "https://sxt.cn/course/id/62075.html"
+          },
+          {
+            "title": "LEGB规则",
+            "url": "https://sxt.cn/course/id/62076.html"
+          },
+          {
+            "title": "定义一个函数，将输入的参数拆成列表元素，通过sort()逆序排列后再输出。如：输入3245，输出5432",
+            "url": "https://sxt.cn/training/write/4440.html"
+          },
+          {
+            "title": "编写一个函数，计算下面的数列",
+            "url": "https://sxt.cn/training/write/4439.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4375.html"
+          },
+          {
+            "title": "面向对象和面向过程的区别_设计者思维_执行者思维",
+            "url": "https://sxt.cn/course/id/62077.html"
+          },
+          {
+            "title": "对象进化的小故事",
+            "url": "https://sxt.cn/course/id/62078.html"
+          },
+          {
+            "title": "类的定义_类和对象的关系_对象的内存模型",
+            "url": "https://sxt.cn/course/id/62079.html"
+          },
+          {
+            "title": "构造函数_init和new方法",
+            "url": "https://sxt.cn/course/id/62080.html"
+          },
+          {
+            "title": "实例属性_内存分析",
+            "url": "https://sxt.cn/course/id/62081.html"
+          },
+          {
+            "title": "实例方法_内存分析方法调用过程_dir()_isinstance",
+            "url": "https://sxt.cn/course/id/62082.html"
+          },
+          {
+            "title": "类对象",
+            "url": "https://sxt.cn/course/id/62083.html"
+          },
+          {
+            "title": "类属性_内存分析(创建类和对象的底层",
+            "url": "https://sxt.cn/course/id/62084.html"
+          },
+          {
+            "title": "类方法_静态方法",
+            "url": "https://sxt.cn/course/id/62085.html"
+          },
+          {
+            "title": "del析构方法_垃圾回收机制简介",
+            "url": "https://sxt.cn/course/id/62086.html"
+          },
+          {
+            "title": "call方法和可调用对象",
+            "url": "https://sxt.cn/course/id/62087.html"
+          },
+          {
+            "title": "方法没有重载_方法的动态性",
+            "url": "https://sxt.cn/course/id/62088.html"
+          },
+          {
+            "title": "私有属性",
+            "url": "https://sxt.cn/course/id/62089.html"
+          },
+          {
+            "title": "私有方法",
+            "url": "https://sxt.cn/course/id/62090.html"
+          },
+          {
+            "title": "@property装饰器",
+            "url": "https://sxt.cn/course/id/62091.html"
+          },
+          {
+            "title": "属性和类的命名规则总结",
+            "url": "https://sxt.cn/course/id/62092.html"
+          },
+          {
+            "title": "None对象的特殊性",
+            "url": "https://sxt.cn/course/id/62093.html"
+          },
+          {
+            "title": "面向对象的三大特征说明(封装、继承、多态)",
+            "url": "https://sxt.cn/course/id/62094.html"
+          },
+          {
+            "title": "继承详解",
+            "url": "https://sxt.cn/course/id/62095.html"
+          },
+          {
+            "title": "成员继承和方法的重写",
+            "url": "https://sxt.cn/course/id/62096.html"
+          },
+          {
+            "title": "object根类_查看模块结构_dir()",
+            "url": "https://sxt.cn/course/id/62097.html"
+          },
+          {
+            "title": "重写str方法",
+            "url": "https://sxt.cn/course/id/62098.html"
+          },
+          {
+            "title": "多重继承",
+            "url": "https://sxt.cn/course/id/62099.html"
+          },
+          {
+            "title": "MRO方法解析顺序",
+            "url": "https://sxt.cn/course/id/62100.html"
+          },
+          {
+            "title": "super()获得父类的定义",
+            "url": "https://sxt.cn/course/id/62101.html"
+          },
+          {
+            "title": "多态详解",
+            "url": "https://sxt.cn/course/id/62102.html"
+          },
+          {
+            "title": "特殊方法和运算符重载",
+            "url": "https://sxt.cn/course/id/62103.html"
+          },
+          {
+            "title": "特殊属性",
+            "url": "https://sxt.cn/course/id/62104.html"
+          },
+          {
+            "title": "浅拷贝和深拷贝_对象内存分析",
+            "url": "https://sxt.cn/course/id/62105.html"
+          },
+          {
+            "title": "继承和组合",
+            "url": "https://sxt.cn/course/id/62106.html"
+          },
+          {
+            "title": "设计模式_工厂模式实现",
+            "url": "https://sxt.cn/course/id/62107.html"
+          },
+          {
+            "title": "设计模式_单例模式实现",
+            "url": "https://sxt.cn/course/id/62108.html"
+          },
+          {
+            "title": "设计模式_工厂和单例模式结合起来",
+            "url": "https://sxt.cn/course/id/62109.html"
+          },
+          {
+            "title": "设计一个名为 MyRectangle 的矩形类来表示矩形。这个类包含",
+            "url": "https://sxt.cn/training/write/4443.html"
+          },
+          {
+            "title": "如下代码测试对象的浅拷贝、深拷贝，请绘制出内存示意图",
+            "url": "https://sxt.cn/training/write/4442.html"
+          },
+          {
+            "title": "定义一个 Employee 雇员类，要求如下：",
+            "url": "https://sxt.cn/training/write/4441.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4376.html"
+          },
+          {
+            "title": "异常的本质_调试错误的核心理念",
+            "url": "https://sxt.cn/course/id/62110.html"
+          },
+          {
+            "title": "try_except基本结构",
+            "url": "https://sxt.cn/course/id/62111.html"
+          },
+          {
+            "title": "try_多个except结构",
+            "url": "https://sxt.cn/course/id/62112.html"
+          },
+          {
+            "title": "else结构",
+            "url": "https://sxt.cn/course/id/62113.html"
+          },
+          {
+            "title": "finally结构和return语句位置",
+            "url": "https://sxt.cn/course/id/62114.html"
+          },
+          {
+            "title": "常见异常汇总说明",
+            "url": "https://sxt.cn/course/id/62115.html"
+          },
+          {
+            "title": "with上下文管理资源",
+            "url": "https://sxt.cn/course/id/62116.html"
+          },
+          {
+            "title": "traceback模块的使用_异常写入日志文件",
+            "url": "https://sxt.cn/course/id/62117.html"
+          },
+          {
+            "title": "自定义异常_raise抛出异常",
+            "url": "https://sxt.cn/course/id/62118.html"
+          },
+          {
+            "title": "pycharm调试模式_debug视图",
+            "url": "https://sxt.cn/course/id/62119.html"
+          },
+          {
+            "title": "使用图片和文字形式，描述本章作业过程中某个异常的解决过程",
+            "url": "https://sxt.cn/training/write/4444.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4377.html"
+          },
+          {
+            "title": "模块化编程理念_什么是模块_哲学思想",
+            "url": "https://sxt.cn/course/id/62120.html"
+          },
+          {
+            "title": "模块化编程的流程_设计和实现分离的思想",
+            "url": "https://sxt.cn/course/id/62121.html"
+          },
+          {
+            "title": "模块导入_import和from_import详解和区别",
+            "url": "https://sxt.cn/course/id/62122.html"
+          },
+          {
+            "title": "import加载底层原理_importlib实现动态导入",
+            "url": "https://sxt.cn/course/id/62123.html"
+          },
+          {
+            "title": "包的概念和创建包导入包",
+            "url": "https://sxt.cn/course/id/62124.html"
+          },
+          {
+            "title": "包的模糊导入",
+            "url": "https://sxt.cn/course/id/62125.html"
+          },
+          {
+            "title": "PIP安装第三方库",
+            "url": "https://sxt.cn/course/id/62126.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4378.html"
+          },
+          {
+            "title": "Novel自动化生成系统_介绍",
+            "url": "https://sxt.cn/course/id/67622.html"
+          },
+          {
+            "title": "Novel自动化生成系统_开发环境搭建",
+            "url": "https://sxt.cn/course/id/67623.html"
+          },
+          {
+            "title": "Novel自动化生成系统_AI工具环境搭建",
+            "url": "https://sxt.cn/course/id/67624.html"
+          },
+          {
+            "title": "Novel自动化生成系统_Schema",
+            "url": "https://sxt.cn/course/id/67625.html"
+          },
+          {
+            "title": "Novel自动化生成系统_配置文件",
+            "url": "https://sxt.cn/course/id/67626.html"
+          },
+          {
+            "title": "Novel自动化生成系统_提示词管理",
+            "url": "https://sxt.cn/course/id/67627.html"
+          },
+          {
+            "title": "Novel自动化生成系统_LLM客户端",
+            "url": "https://sxt.cn/course/id/67628.html"
+          },
+          {
+            "title": "Novel自动化生成系统_导出模块",
+            "url": "https://sxt.cn/course/id/67629.html"
+          },
+          {
+            "title": "Novel自动化生成系统_pipeline流程",
+            "url": "https://sxt.cn/course/id/67630.html"
+          },
+          {
+            "title": "Novel自动化生成系统_程序入口",
+            "url": "https://sxt.cn/course/id/67631.html"
+          },
+          {
+            "title": "Novel自动化生成系统_程序测试",
+            "url": "https://sxt.cn/course/id/67632.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4703.html"
+          }
+        ],
+        "title": "聊天机器人初体验"
+      }
+    ],
+    "counts": "本阶段将带领学习者全面理解大语言模型（LLM）的核心概念、架构原理与应用方式，通过掌握模型 API 调用、工程化封装、流式输出、Prompt 结构化编写等核心技能，为后续 AI Agent 的构建打下坚实基础。学完后能独立调用主流大模型并构建基础级 AI 应用服务。",
+    "description": "本阶段将带领学习者全面理解大语言模型（LLM）的核心概念、架构原理与应用方式，通过掌握模型 API 调用、工程化封装、流式输出、Prompt 结构化编写等核心技能，为后续 AI Agent 的构建打下坚实基础。学完后能独立调用主流大模型并构建基础级 AI 应用服务。"
+  },
+  {
+    "id": "742",
+    "num": 3,
+    "title": "AI智能体Web系统构建实战",
+    "chapters": [
+      {
+        "exercises": [
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4691.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4692.html"
+          }
+        ],
+        "lessons": [
+          {
+            "title": "数据库基本概念",
+            "url": "https://sxt.cn/course/id/67338.html"
+          },
+          {
+            "title": "MySQL数据库基础知识",
+            "url": "https://sxt.cn/course/id/67339.html"
+          },
+          {
+            "title": "MySQL的安装与卸载",
+            "url": "https://sxt.cn/course/id/67340.html"
+          },
+          {
+            "title": "连接MySQL",
+            "url": "https://sxt.cn/course/id/67341.html"
+          },
+          {
+            "title": "使用Navicat工具连接MySQL",
+            "url": "https://sxt.cn/course/id/67342.html"
+          },
+          {
+            "title": "创建删除数据库",
+            "url": "https://sxt.cn/course/id/67344.html"
+          },
+          {
+            "title": "MySQL中的数据类型",
+            "url": "https://sxt.cn/course/id/67345.html"
+          },
+          {
+            "title": "创建表与删除表",
+            "url": "https://sxt.cn/course/id/67346.html"
+          },
+          {
+            "title": "MySQL中的约束",
+            "url": "https://sxt.cn/course/id/67461.html"
+          },
+          {
+            "title": "添加主键约束",
+            "url": "https://sxt.cn/course/id/67353.html"
+          },
+          {
+            "title": "创建表时添加约束",
+            "url": "https://sxt.cn/course/id/67361.html"
+          },
+          {
+            "title": "添加数据",
+            "url": "https://sxt.cn/course/id/67362.html"
+          },
+          {
+            "title": "更新数据",
+            "url": "https://sxt.cn/course/id/67364.html"
+          },
+          {
+            "title": "删除数据",
+            "url": "https://sxt.cn/course/id/67365.html"
+          },
+          {
+            "title": "select基本查询介绍",
+            "url": "https://sxt.cn/course/id/67366.html"
+          },
+          {
+            "title": "查询中的行选择",
+            "url": "https://sxt.cn/course/id/67372.html"
+          },
+          {
+            "title": "MySQL中的逻辑条件",
+            "url": "https://sxt.cn/course/id/67375.html"
+          },
+          {
+            "title": "使用 ORDER BY 排序",
+            "url": "https://sxt.cn/course/id/67377.html"
+          },
+          {
+            "title": "SQL函数介绍",
+            "url": "https://sxt.cn/course/id/67379.html"
+          },
+          {
+            "title": "字符函数",
+            "url": "https://sxt.cn/course/id/67381.html"
+          },
+          {
+            "title": "数字函数",
+            "url": "https://sxt.cn/course/id/67382.html"
+          },
+          {
+            "title": "日期函数",
+            "url": "https://sxt.cn/course/id/67383.html"
+          },
+          {
+            "title": "通用函数(上)",
+            "url": "https://sxt.cn/course/id/67385.html"
+          },
+          {
+            "title": "通用函数(下)",
+            "url": "https://sxt.cn/course/id/67386.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4691.html"
+          },
+          {
+            "title": "FastAPI介绍",
+            "url": "https://sxt.cn/course/id/67162.html"
+          },
+          {
+            "title": "FastAPI环境搭建",
+            "url": "https://sxt.cn/course/id/67163.html"
+          },
+          {
+            "title": "FastAPI第一个程序与启动项目",
+            "url": "https://sxt.cn/course/id/67164.html"
+          },
+          {
+            "title": "用AI生成API接口",
+            "url": "https://sxt.cn/course/id/67165.html"
+          },
+          {
+            "title": "FastAPI路径参数",
+            "url": "https://sxt.cn/course/id/67166.html"
+          },
+          {
+            "title": "FastAPI查询参数",
+            "url": "https://sxt.cn/course/id/67167.html"
+          },
+          {
+            "title": "FastAPI请求体",
+            "url": "https://sxt.cn/course/id/67168.html"
+          },
+          {
+            "title": "FastAPI请求参数类型验证",
+            "url": "https://sxt.cn/course/id/67169.html"
+          },
+          {
+            "title": "FastAPI请求参数验证_Query方式",
+            "url": "https://sxt.cn/course/id/67170.html"
+          },
+          {
+            "title": "FastAPI请求参数验证_Path方式",
+            "url": "https://sxt.cn/course/id/67171.html"
+          },
+          {
+            "title": "FastAPI请求参数验证_Field方式",
+            "url": "https://sxt.cn/course/id/67172.html"
+          },
+          {
+            "title": "FastAPI表单数据",
+            "url": "https://sxt.cn/course/id/67173.html"
+          },
+          {
+            "title": "FastAPI异步处理",
+            "url": "https://sxt.cn/course/id/67174.html"
+          },
+          {
+            "title": "FastAPI文件上传1",
+            "url": "https://sxt.cn/course/id/67175.html"
+          },
+          {
+            "title": "FastAPI文件上传2",
+            "url": "https://sxt.cn/course/id/67176.html"
+          },
+          {
+            "title": "FastAPI请求对象Request",
+            "url": "https://sxt.cn/course/id/67177.html"
+          },
+          {
+            "title": "FastAPI响应类型_JSON格式",
+            "url": "https://sxt.cn/course/id/67178.html"
+          },
+          {
+            "title": "FastAPI响应类型_列表格式",
+            "url": "https://sxt.cn/course/id/67179.html"
+          },
+          {
+            "title": "FastAPI响应类型_数据过滤与分页",
+            "url": "https://sxt.cn/course/id/67180.html"
+          },
+          {
+            "title": "FastAPI响应类型_分页列表封装",
+            "url": "https://sxt.cn/course/id/67181.html"
+          },
+          {
+            "title": "FastAPI响应类型_文件格式",
+            "url": "https://sxt.cn/course/id/67182.html"
+          },
+          {
+            "title": "FastAPI响应类型_其它格式",
+            "url": "https://sxt.cn/course/id/67183.html"
+          },
+          {
+            "title": "FastAPI的ORM生态",
+            "url": "https://sxt.cn/course/id/67184.html"
+          },
+          {
+            "title": "ORM_tortoise的配置",
+            "url": "https://sxt.cn/course/id/67185.html"
+          },
+          {
+            "title": "ORM_迁移工具",
+            "url": "https://sxt.cn/course/id/67186.html"
+          },
+          {
+            "title": "ORM_模型定义",
+            "url": "https://sxt.cn/course/id/67187.html"
+          },
+          {
+            "title": "ORM_模型定义实战",
+            "url": "https://sxt.cn/course/id/67188.html"
+          },
+          {
+            "title": "ORM_增加数据_脚本模式",
+            "url": "https://sxt.cn/course/id/67189.html"
+          },
+          {
+            "title": "ORM_增加数据_接口模式",
+            "url": "https://sxt.cn/course/id/67190.html"
+          },
+          {
+            "title": "ORM_更新与删除数据",
+            "url": "https://sxt.cn/course/id/67191.html"
+          },
+          {
+            "title": "ORM_查询数据",
+            "url": "https://sxt.cn/course/id/67192.html"
+          },
+          {
+            "title": "ORM_了解关联关系",
+            "url": "https://sxt.cn/course/id/67193.html"
+          },
+          {
+            "title": "ORM_1对1关系实现",
+            "url": "https://sxt.cn/course/id/67194.html"
+          },
+          {
+            "title": "ORM_1对多关系实现",
+            "url": "https://sxt.cn/course/id/67195.html"
+          },
+          {
+            "title": "ORM_多对多关系实现",
+            "url": "https://sxt.cn/course/id/67196.html"
+          },
+          {
+            "title": "ORM_关联关系增加数据",
+            "url": "https://sxt.cn/course/id/67197.html"
+          },
+          {
+            "title": "ORM_关联关系更新数据",
+            "url": "https://sxt.cn/course/id/67198.html"
+          },
+          {
+            "title": "ORM_关联关系查询与删除数据",
+            "url": "https://sxt.cn/course/id/67199.html"
+          },
+          {
+            "title": "FastAPI_ORM分页查询1",
+            "url": "https://sxt.cn/course/id/67790.html"
+          },
+          {
+            "title": "FastAPI_ORM分页查询2",
+            "url": "https://sxt.cn/course/id/67791.html"
+          },
+          {
+            "title": "FastAPI_ORM分页查询3",
+            "url": "https://sxt.cn/course/id/67792.html"
+          },
+          {
+            "title": "FastAPI中间件",
+            "url": "https://sxt.cn/course/id/67200.html"
+          },
+          {
+            "title": "FastAPI中间件2",
+            "url": "https://sxt.cn/course/id/67201.html"
+          },
+          {
+            "title": "FastAPI跨域资源共享",
+            "url": "https://sxt.cn/course/id/67202.html"
+          },
+          {
+            "title": "FastAPI跨域资源共享_实现",
+            "url": "https://sxt.cn/course/id/67203.html"
+          },
+          {
+            "title": "FastAPI业务划分",
+            "url": "https://sxt.cn/course/id/67204.html"
+          },
+          {
+            "title": "FastAPI项目结构",
+            "url": "https://sxt.cn/course/id/67205.html"
+          },
+          {
+            "title": "FastAPI整合技能",
+            "url": "https://sxt.cn/course/id/67206.html"
+          },
+          {
+            "title": "FastAPI创建工程目录",
+            "url": "https://sxt.cn/course/id/67207.html"
+          },
+          {
+            "title": "FastAPI划分代码功能",
+            "url": "https://sxt.cn/course/id/67208.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4692.html"
+          }
+        ],
+        "title": "MySQL数据库"
+      }
+    ],
+    "counts": "AI智能体Web系统构建实战",
+    "description": "AI智能体Web系统构建实战"
+  },
+  {
+    "id": "743",
+    "num": 4,
+    "title": "Agent项目启蒙",
+    "chapters": [
+      {
+        "exercises": [
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4705.html"
+          }
+        ],
+        "lessons": [
+          {
+            "title": "(第二大脑)智能会议系统_项目介绍",
+            "url": "https://sxt.cn/course/id/67661.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_Python环境搭建",
+            "url": "https://sxt.cn/course/id/67662.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_AI工具配置",
+            "url": "https://sxt.cn/course/id/67663.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_配置数据库服务",
+            "url": "https://sxt.cn/course/id/67664.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_ClaudeCode初始化项目",
+            "url": "https://sxt.cn/course/id/67665.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_ORM配置",
+            "url": "https://sxt.cn/course/id/67666.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_用户功能",
+            "url": "https://sxt.cn/course/id/67667.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_会议上传",
+            "url": "https://sxt.cn/course/id/67668.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_语音转文字",
+            "url": "https://sxt.cn/course/id/67669.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_Agent结构化分析",
+            "url": "https://sxt.cn/course/id/67670.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_综合测试",
+            "url": "https://sxt.cn/course/id/67671.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_前端项目生成",
+            "url": "https://sxt.cn/course/id/67672.html"
+          },
+          {
+            "title": "(第二大脑)智能会议系统_综合测试与修复bug",
+            "url": "https://sxt.cn/course/id/67673.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4705.html"
+          }
+        ],
+        "title": "(第二大脑)智能会议系统"
+      }
+    ],
+    "counts": "Agent项目启蒙",
+    "description": "Agent项目启蒙"
+  },
+  {
+    "id": "744",
+    "num": 5,
+    "title": "低代码Agent平台实战",
+    "chapters": [
+      {
+        "exercises": [
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4690.html"
+          }
+        ],
+        "lessons": [
+          {
+            "title": "什么是Coze",
+            "url": "https://sxt.cn/course/id/67209.html"
+          },
+          {
+            "title": "人设与回复逻辑(1)",
+            "url": "https://sxt.cn/course/id/67210.html"
+          },
+          {
+            "title": "人设与回复逻辑(2)",
+            "url": "https://sxt.cn/course/id/67211.html"
+          },
+          {
+            "title": "插件的使用",
+            "url": "https://sxt.cn/course/id/67212.html"
+          },
+          {
+            "title": "案例_百战天气助手(1)",
+            "url": "https://sxt.cn/course/id/67213.html"
+          },
+          {
+            "title": "案例_百战天气助手(2)",
+            "url": "https://sxt.cn/course/id/67214.html"
+          },
+          {
+            "title": "自定义插件(1)",
+            "url": "https://sxt.cn/course/id/67215.html"
+          },
+          {
+            "title": "自定义插件(2)",
+            "url": "https://sxt.cn/course/id/67216.html"
+          },
+          {
+            "title": "基于已有服务创建插件(1)",
+            "url": "https://sxt.cn/course/id/67217.html"
+          },
+          {
+            "title": "基于已有服务创建插件(2)",
+            "url": "https://sxt.cn/course/id/67218.html"
+          },
+          {
+            "title": "基于已有服务创建插件(3)",
+            "url": "https://sxt.cn/course/id/67219.html"
+          },
+          {
+            "title": "自定义插件调用通义万相(1)",
+            "url": "https://sxt.cn/course/id/67220.html"
+          },
+          {
+            "title": "自定义插件调用通义万相(2)",
+            "url": "https://sxt.cn/course/id/67221.html"
+          },
+          {
+            "title": "创建LOGO生成助手",
+            "url": "https://sxt.cn/course/id/67222.html"
+          },
+          {
+            "title": "知识库",
+            "url": "https://sxt.cn/course/id/67223.html"
+          },
+          {
+            "title": "创建知识库",
+            "url": "https://sxt.cn/course/id/67224.html"
+          },
+          {
+            "title": "在Bot中应用知识库",
+            "url": "https://sxt.cn/course/id/67225.html"
+          },
+          {
+            "title": "记忆模块",
+            "url": "https://sxt.cn/course/id/67226.html"
+          },
+          {
+            "title": "个人健康生活教练(1)",
+            "url": "https://sxt.cn/course/id/67227.html"
+          },
+          {
+            "title": "个人健康生活教练(2)",
+            "url": "https://sxt.cn/course/id/67228.html"
+          },
+          {
+            "title": "对话体验模块",
+            "url": "https://sxt.cn/course/id/67229.html"
+          },
+          {
+            "title": "旅行规划助手(1)",
+            "url": "https://sxt.cn/course/id/67230.html"
+          },
+          {
+            "title": "旅行规划助手(2)",
+            "url": "https://sxt.cn/course/id/67231.html"
+          },
+          {
+            "title": "工作流",
+            "url": "https://sxt.cn/course/id/67232.html"
+          },
+          {
+            "title": "工作流案例",
+            "url": "https://sxt.cn/course/id/67233.html"
+          },
+          {
+            "title": "生成历史人物生平文案",
+            "url": "https://sxt.cn/course/id/67234.html"
+          },
+          {
+            "title": "生成历史人物生平图片(1)",
+            "url": "https://sxt.cn/course/id/67235.html"
+          },
+          {
+            "title": "生成历史人物生平图片(2)",
+            "url": "https://sxt.cn/course/id/67236.html"
+          },
+          {
+            "title": "生成历史人物生平视频(1)",
+            "url": "https://sxt.cn/course/id/67237.html"
+          },
+          {
+            "title": "生成历史人物生平视频(2)",
+            "url": "https://sxt.cn/course/id/67238.html"
+          },
+          {
+            "title": "将视频数组转为URL字符串数组",
+            "url": "https://sxt.cn/course/id/67239.html"
+          },
+          {
+            "title": "生成配音",
+            "url": "https://sxt.cn/course/id/67240.html"
+          },
+          {
+            "title": "视频合成配音",
+            "url": "https://sxt.cn/course/id/67241.html"
+          },
+          {
+            "title": "添加字幕",
+            "url": "https://sxt.cn/course/id/67242.html"
+          },
+          {
+            "title": "获取视频URL集合",
+            "url": "https://sxt.cn/course/id/67243.html"
+          },
+          {
+            "title": "视频拼接",
+            "url": "https://sxt.cn/course/id/67244.html"
+          },
+          {
+            "title": "添加背景音乐",
+            "url": "https://sxt.cn/course/id/67245.html"
+          },
+          {
+            "title": "将工作流用于智能体",
+            "url": "https://sxt.cn/course/id/67246.html"
+          },
+          {
+            "title": "对话流",
+            "url": "https://sxt.cn/course/id/67247.html"
+          },
+          {
+            "title": "智能助教",
+            "url": "https://sxt.cn/course/id/67248.html"
+          },
+          {
+            "title": "识别用户意图",
+            "url": "https://sxt.cn/course/id/67249.html"
+          },
+          {
+            "title": "知识库检索",
+            "url": "https://sxt.cn/course/id/67250.html"
+          },
+          {
+            "title": "RAG检索成功回答",
+            "url": "https://sxt.cn/course/id/67251.html"
+          },
+          {
+            "title": "RAG检索失败回答",
+            "url": "https://sxt.cn/course/id/67252.html"
+          },
+          {
+            "title": "测试智能体",
+            "url": "https://sxt.cn/course/id/67253.html"
+          },
+          {
+            "title": "多Agent模式",
+            "url": "https://sxt.cn/course/id/67254.html"
+          },
+          {
+            "title": "百战小助手_分发任务Agent",
+            "url": "https://sxt.cn/course/id/67255.html"
+          },
+          {
+            "title": "百战小助手_班主任&amp;助教&amp;投诉专员",
+            "url": "https://sxt.cn/course/id/67256.html"
+          },
+          {
+            "title": "百战小助手_全局跳转条件",
+            "url": "https://sxt.cn/course/id/67257.html"
+          },
+          {
+            "title": "Coze应用开发",
+            "url": "https://sxt.cn/course/id/67258.html"
+          },
+          {
+            "title": "智能投资顾问_搭建界面",
+            "url": "https://sxt.cn/course/id/67259.html"
+          },
+          {
+            "title": "智能投资顾问_保存用户数据",
+            "url": "https://sxt.cn/course/id/67260.html"
+          },
+          {
+            "title": "智能投资顾问_产品推荐节点",
+            "url": "https://sxt.cn/course/id/67261.html"
+          },
+          {
+            "title": "智能投资顾问_测试",
+            "url": "https://sxt.cn/course/id/67262.html"
+          },
+          {
+            "title": "发布智能体",
+            "url": "https://sxt.cn/course/id/67263.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4690.html"
+          }
+        ],
+        "title": "Coze平台实战"
+      }
+    ],
+    "counts": "第四阶段：低代码Agent平台实战",
+    "description": "第四阶段：低代码Agent平台实战"
+  },
+  {
+    "id": "674",
+    "num": 6,
+    "title": "大模型核心原理与提示词工程",
+    "chapters": [
+      {
+        "exercises": [
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4415.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4421.html"
+          }
+        ],
+        "lessons": [
+          {
+            "title": "AI的发展历程",
+            "url": "https://sxt.cn/course/id/63800.html"
+          },
+          {
+            "title": "常见AI产品的类型",
+            "url": "https://sxt.cn/course/id/63801.html"
+          },
+          {
+            "title": "什么是大模型",
+            "url": "https://sxt.cn/course/id/63802.html"
+          },
+          {
+            "title": "大模型聊天产品的特殊能力",
+            "url": "https://sxt.cn/course/id/63803.html"
+          },
+          {
+            "title": "大模型对行业发展的影响",
+            "url": "https://sxt.cn/course/id/63804.html"
+          },
+          {
+            "title": "大模型的趋势与挑战",
+            "url": "https://sxt.cn/course/id/63805.html"
+          },
+          {
+            "title": "全球AI发展现状",
+            "url": "https://sxt.cn/course/id/63806.html"
+          },
+          {
+            "title": "常见大模型介绍",
+            "url": "https://sxt.cn/course/id/63807.html"
+          },
+          {
+            "title": "大模型版本区分",
+            "url": "https://sxt.cn/course/id/63808.html"
+          },
+          {
+            "title": "大模型硬件选择",
+            "url": "https://sxt.cn/course/id/63809.html"
+          },
+          {
+            "title": "大模型应用开发入门案例(1)",
+            "url": "https://sxt.cn/course/id/63810.html"
+          },
+          {
+            "title": "大模型应用开发入门案例(2)",
+            "url": "https://sxt.cn/course/id/63811.html"
+          },
+          {
+            "title": "调用模型时的请求体",
+            "url": "https://sxt.cn/course/id/63812.html"
+          },
+          {
+            "title": "非流式输出的响应结构",
+            "url": "https://sxt.cn/course/id/63813.html"
+          },
+          {
+            "title": "流式输出的响应结构",
+            "url": "https://sxt.cn/course/id/63814.html"
+          },
+          {
+            "title": "使用大模型进行情感分析",
+            "url": "https://sxt.cn/course/id/63815.html"
+          },
+          {
+            "title": "使用大模型进行图像识别",
+            "url": "https://sxt.cn/course/id/63816.html"
+          },
+          {
+            "title": "使用大模型进行图像生成",
+            "url": "https://sxt.cn/course/id/63817.html"
+          },
+          {
+            "title": "函数功能的使用(1)",
+            "url": "https://sxt.cn/course/id/63818.html"
+          },
+          {
+            "title": "函数功能的使用(2)",
+            "url": "https://sxt.cn/course/id/63819.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4415.html"
+          },
+          {
+            "title": "提示词与提示词工程",
+            "url": "https://sxt.cn/course/id/63911.html"
+          },
+          {
+            "title": "提示词的编写原则",
+            "url": "https://sxt.cn/course/id/63912.html"
+          },
+          {
+            "title": "通用模型和推理模型的区别",
+            "url": "https://sxt.cn/course/id/63913.html"
+          },
+          {
+            "title": "通用模式的提示词编写",
+            "url": "https://sxt.cn/course/id/63914.html"
+          },
+          {
+            "title": "推理模式的提示词编写",
+            "url": "https://sxt.cn/course/id/63915.html"
+          },
+          {
+            "title": "提示词编写技巧_设定提问者背景",
+            "url": "https://sxt.cn/course/id/63916.html"
+          },
+          {
+            "title": "提示词编写技巧_限制输出的格式",
+            "url": "https://sxt.cn/course/id/63917.html"
+          },
+          {
+            "title": "提示词编写技巧_使用分隔符区分输入的不同部分",
+            "url": "https://sxt.cn/course/id/63918.html"
+          },
+          {
+            "title": "提示词编写技巧_零样本&amp;少样本提示",
+            "url": "https://sxt.cn/course/id/63919.html"
+          },
+          {
+            "title": "提示词编写技巧_思维链",
+            "url": "https://sxt.cn/course/id/63920.html"
+          },
+          {
+            "title": "提示词编写技巧_思维树",
+            "url": "https://sxt.cn/course/id/63921.html"
+          },
+          {
+            "title": "提示词编写技巧_自我一致性",
+            "url": "https://sxt.cn/course/id/63922.html"
+          },
+          {
+            "title": "提示词编写流程",
+            "url": "https://sxt.cn/course/id/63923.html"
+          },
+          {
+            "title": "提示词编写流程案例",
+            "url": "https://sxt.cn/course/id/63924.html"
+          },
+          {
+            "title": "利用大模型编写提示词(1)",
+            "url": "https://sxt.cn/course/id/63925.html"
+          },
+          {
+            "title": "利用大模型编写提示词(2)",
+            "url": "https://sxt.cn/course/id/63926.html"
+          },
+          {
+            "title": "提示词优化器",
+            "url": "https://sxt.cn/course/id/63927.html"
+          },
+          {
+            "title": "Prompt的攻击方式_提示词注入",
+            "url": "https://sxt.cn/course/id/63928.html"
+          },
+          {
+            "title": "Prompt的攻击方式_提示词泄露",
+            "url": "https://sxt.cn/course/id/63929.html"
+          },
+          {
+            "title": "Prompt的攻击方式_提示词越狱",
+            "url": "https://sxt.cn/course/id/63930.html"
+          },
+          {
+            "title": "Prompt的防范措施(1)",
+            "url": "https://sxt.cn/course/id/63931.html"
+          },
+          {
+            "title": "Prompt的防范措施(2)",
+            "url": "https://sxt.cn/course/id/63932.html"
+          },
+          {
+            "title": "小红书文案生成器(1)",
+            "url": "https://sxt.cn/course/id/63933.html"
+          },
+          {
+            "title": "小红书文案生成器(2)",
+            "url": "https://sxt.cn/course/id/63934.html"
+          },
+          {
+            "title": "旅行规划定制系统(1)",
+            "url": "https://sxt.cn/course/id/63935.html"
+          },
+          {
+            "title": "旅行规划定制系统(2)",
+            "url": "https://sxt.cn/course/id/63936.html"
+          },
+          {
+            "title": "旅行规划定制系统(3)",
+            "url": "https://sxt.cn/course/id/63937.html"
+          },
+          {
+            "title": "智能烹饪食谱推荐系统(1)",
+            "url": "https://sxt.cn/course/id/63938.html"
+          },
+          {
+            "title": "智能烹饪食谱推荐系统(2)",
+            "url": "https://sxt.cn/course/id/63939.html"
+          },
+          {
+            "title": "智能烹饪食谱推荐系统(3)",
+            "url": "https://sxt.cn/course/id/63940.html"
+          },
+          {
+            "title": "本章资料下载地址",
+            "url": "https://sxt.cn/training/write/4421.html"
+          }
+        ],
+        "title": "⼤模型理论基础"
+      }
+    ],
+    "counts": "本阶段深入解析大模型的训练框架、生成机制、对齐策略（RLHF）、Token 工作方式。系统学习提示词工程，包括角色设定、思维链（CoT）、ReAct、结构化 Prompt 等，帮助学生提升大模型控制能力与应用效果。",
+    "description": "本阶段深入解析大模型的训练框架、生成机制、对齐策略（RLHF）、Token 工作方式。系统学习提示词工程，包括角色设定、思维链（CoT）、ReAct、结构化 Prompt 等，帮助学生提升大模型控制能力与应用效果。"
+  }
+]
